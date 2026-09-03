@@ -22,3 +22,6 @@ V2 -> adding microphone and UI
 V3 -> adding real AI
 
 
+
+
+Using Olama locally for AI in version 3
